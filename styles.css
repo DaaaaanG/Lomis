@@ -1,0 +1,25 @@
+body {color: rgb(37, 36, 35);
+    background-color: rgb(212, 155, 159);
+    font-family: 'Lora', serif;
+    
+}
+
+    p, li{
+        color: #663f56;
+    }
+
+    h3{
+        font-size: 45px ;
+    }
+    h1{
+        color: rgb(1, 1, 2);
+        font-family: 'Tilt Prism', cursive;
+    }
+
+    img{
+        width: 400px;
+        height: 450px;
+        padding: 20px;
+        
+    }
+    div{background-color: rgb(182, 93, 81);}
